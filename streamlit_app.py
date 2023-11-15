@@ -1,4 +1,4 @@
-import streamset as st
+import streamsets as st
 
 DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
